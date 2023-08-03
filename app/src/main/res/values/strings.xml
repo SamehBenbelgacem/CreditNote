@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreditNote</string>
+    <string name="email_label">Email: %1$s</string>
+    <string name="full_name_label">Full Name: %1$s</string>
+</resources>
